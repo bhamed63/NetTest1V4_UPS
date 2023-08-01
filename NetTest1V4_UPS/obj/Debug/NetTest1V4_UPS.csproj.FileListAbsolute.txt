@@ -1,0 +1,167 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeList.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeList.baml
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.exe.config
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.exe
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.pdb
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.AssemblyReference.cache
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\MainWindow.g.cs
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\App.g.cs
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS_MarkupCompile.cache
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS_MarkupCompile.lref
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\MainWindow.baml
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.g.resources
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.Properties.Resources.resources
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.GenerateResource.cache
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.CoreCompileInputs.cache
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.exe
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.pdb
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\CustomerViews\CustomerListView.g.cs
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\CustomerViews\CustomerListView.baml
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeListView.g.cs
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeListView.baml
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeAddView.g.cs
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeAddView.baml
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.exe.config
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.exe
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.pdb
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.DataServices.dll
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.DataServices.pdb
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\CustomerViews\CustomerListView.g.cs
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeAddView.g.cs
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeListView.g.cs
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS_MarkupCompile.cache
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS_MarkupCompile.lref
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\CustomerViews\CustomerListView.baml
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeAddView.baml
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeListView.baml
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.g.resources
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.exe
+C:\Users\Administrator\Desktop\WpfApp1\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.pdb
+F:\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.exe.config
+F:\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.exe
+F:\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.pdb
+F:\WpfApp1\NetTest1V4_UPS\bin\Debug\Microsoft.Practices.Unity.dll
+F:\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.DataServices.dll
+F:\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.Models.dll
+F:\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.Tools.dll
+F:\WpfApp1\NetTest1V4_UPS\bin\Debug\Newtonsoft.Json.dll
+F:\WpfApp1\NetTest1V4_UPS\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.DataServices.pdb
+F:\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.Models.pdb
+F:\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.Tools.pdb
+F:\WpfApp1\NetTest1V4_UPS\bin\Debug\Microsoft.Practices.Unity.pdb
+F:\WpfApp1\NetTest1V4_UPS\bin\Debug\Microsoft.Practices.Unity.xml
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csprojAssemblyReference.cache
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\MainWindow.g.cs
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\CustomerViews\CustomerListView.g.cs
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeAddView.g.cs
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeListView.g.cs
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\App.g.cs
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS_MarkupCompile.cache
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS_MarkupCompile.lref
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\MainWindow.baml
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\CustomerViews\CustomerListView.baml
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeAddView.baml
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeListView.baml
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.g.resources
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.Properties.Resources.resources
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.GenerateResource.cache
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.CoreCompileInputs.cache
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.CopyComplete
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.exe
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.pdb
+F:\WpfApp1\NetTest1V4_UPS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.exe.config
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.exe
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.pdb
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.DataServices.dll
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.IOC.dll
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.Models.dll
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.Tools.dll
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.DataServices.pdb
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.IOC.pdb
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.Models.pdb
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.Tools.pdb
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.AssemblyReference.cache
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\MainWindow.g.cs
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\CustomerViews\CustomerListView.g.cs
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeAddView.g.cs
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeListView.g.cs
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\App.g.cs
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS_MarkupCompile.cache
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS_MarkupCompile.lref
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\MainWindow.baml
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\CustomerViews\CustomerListView.baml
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeAddView.baml
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeListView.baml
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.g.resources
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.Properties.Resources.resources
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.GenerateResource.cache
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.CoreCompileInputs.cache
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.CopyComplete
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.exe
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.pdb
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.exe.config
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.exe
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.pdb
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.DataServices.dll
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.IOC.dll
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.Models.dll
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.Tools.dll
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.DataServices.pdb
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.IOC.pdb
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.Models.pdb
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\bin\Debug\NetTest1V4_UPS.Tools.pdb
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.AssemblyReference.cache
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\MainWindow.g.cs
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\Views\CustomerViews\CustomerListView.g.cs
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeAddView.g.cs
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeListView.g.cs
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\App.g.cs
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS_MarkupCompile.cache
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS_MarkupCompile.lref
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\MainWindow.baml
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\Views\CustomerViews\CustomerListView.baml
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeAddView.baml
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\Views\EmployeeViews\EmployeeListView.baml
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.g.resources
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.Properties.Resources.resources
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.GenerateResource.cache
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.CoreCompileInputs.cache
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.csproj.CopyComplete
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.exe
+C:\Users\h.bagherzadeh\Desktop\NetTest1V4_UPS\NetTest1V4_UPS\obj\Debug\NetTest1V4_UPS.pdb

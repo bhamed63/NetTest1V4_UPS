@@ -1,0 +1,12 @@
+F:\WpfApp1\NetTest1V4_UPS.Models\bin\Debug\NetTest1V4_UPS.Models.dll
+F:\WpfApp1\NetTest1V4_UPS.Models\bin\Debug\NetTest1V4_UPS.Models.pdb
+F:\WpfApp1\NetTest1V4_UPS.Models\obj\Debug\NetTest1V4_UPS.Models.csprojAssemblyReference.cache
+F:\WpfApp1\NetTest1V4_UPS.Models\obj\Debug\NetTest1V4_UPS.Models.csproj.CoreCompileInputs.cache
+F:\WpfApp1\NetTest1V4_UPS.Models\obj\Debug\NetTest1V4_UPS.Models.dll
+F:\WpfApp1\NetTest1V4_UPS.Models\obj\Debug\NetTest1V4_UPS.Models.pdb
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.Models\bin\Debug\NetTest1V4_UPS.Models.dll
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.Models\bin\Debug\NetTest1V4_UPS.Models.pdb
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.Models\obj\Debug\NetTest1V4_UPS.Models.csproj.AssemblyReference.cache
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.Models\obj\Debug\NetTest1V4_UPS.Models.csproj.CoreCompileInputs.cache
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.Models\obj\Debug\NetTest1V4_UPS.Models.dll
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.Models\obj\Debug\NetTest1V4_UPS.Models.pdb

@@ -1,0 +1,9 @@
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.IOC\bin\Debug\NetTest1V4_UPS.IOC.dll
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.IOC\bin\Debug\NetTest1V4_UPS.IOC.pdb
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.IOC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.IOC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.IOC\obj\Debug\NetTest1V4_UPS.IOC.csproj.AssemblyReference.cache
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.IOC\obj\Debug\NetTest1V4_UPS.IOC.csproj.CoreCompileInputs.cache
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.IOC\obj\Debug\NetTest1V4_UPS.IOC.csproj.CopyComplete
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.IOC\obj\Debug\NetTest1V4_UPS.IOC.dll
+C:\Users\h.bagherzadeh\Desktop\WpfApp1\NetTest1V4_UPS.IOC\obj\Debug\NetTest1V4_UPS.IOC.pdb
